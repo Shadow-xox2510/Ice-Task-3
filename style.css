@@ -1,0 +1,21 @@
+body{
+    background-image: url(images/Stars.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+a {
+  text-decoration: none;
+  color: #337ab7;
+  font-weight: bold;
+  padding: 3px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  background-color: #f0f0f0; 
+}
+
+a:hover {
+  color: #23527c;
+}
+
